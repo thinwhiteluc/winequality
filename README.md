@@ -1,4 +1,4 @@
-# winequality
+# wineQuality
 
 Etapas
 1. Inspecione os dados. Quantos exemplos você tem? Qual o intervalo de valores de cada
