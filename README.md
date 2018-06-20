@@ -11,5 +11,5 @@ feature?
 
 #Arquivos
 
-• wineQuality_train.data: conjunto de dados para treinamento;
-• wineQuality_val.data: conjunto de dados para validação;
+wineQuality_train.data: conjunto de dados para treinamento;
+wineQuality_val.data: conjunto de dados para validação;
