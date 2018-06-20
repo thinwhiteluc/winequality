@@ -1,6 +1,6 @@
 # winequality
 
-#Etapas
+Etapas
 1. Inspecione os dados. Quantos exemplos você tem? Qual o intervalo de valores de cada
 feature?
 2. Normalize os dados de modo que eles fiquem todos no mesmo intervalo.
@@ -9,7 +9,6 @@ feature?
 5. Calcule a matriz de confusão e acurácia no conjunto de validação.
 
 
-#Arquivos
-
+Arquivos
 1. wineQuality_train.data: conjunto de dados para treinamento.
 2. wineQuality_val.data: conjunto de dados para validação.
