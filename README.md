@@ -1,4 +1,4 @@
-# wineQuality
+# winequality
 
 Etapas
 [x] Inspecione os dados. Quantos exemplos você tem? Qual o intervalo de valores de cada
